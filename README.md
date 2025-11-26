@@ -16,4 +16,10 @@
 ## 🔍 연결 구조
 ### Button1을 탭하면 Button1Pressed 메서드가 실행됩니다.
 
+<img width="296" height="640" alt="Image" src="https://github.com/user-attachments/assets/debaf692-9aec-4d99-987f-b5fc7cc3a26c" />
+<img width="296" height="640" alt="Image" src="https://github.com/user-attachments/assets/6f56eb59-73ac-48af-8a1e-77d1153dbe5b" />
+
 ### Button2를 탭하면 Button2 메서드가 실행됩니다.
+
+<img width="296" height="640" alt="Image" src="https://github.com/user-attachments/assets/debaf692-9aec-4d99-987f-b5fc7cc3a26c" />
+<img width="296" height="640" alt="Image" src="https://github.com/user-attachments/assets/03dfecf1-568e-488f-852e-f0c920a570a1" />
